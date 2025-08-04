@@ -15,4 +15,20 @@ h1 {
     margin-bottom: 10px;
     font-size: 2em;
 }
+.section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    width: 90%;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+h2 {
+    border-bottom: 2px solid #1a73e8;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    color: #1a73e8;
+}
 
