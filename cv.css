@@ -5,16 +5,20 @@ body {
     background-color: #f2f2f2;
     color: #333;
 }
+
 header {
     background-color: #1a73e8;
     color: white;
     text-align: center;
     padding: 30px 20px;
+
 }
+
 h1 {
     margin-bottom: 10px;
     font-size: 2em;
 }
+
 .section {
     background-color: white;
     margin: 20px auto;
@@ -25,22 +29,25 @@ h1 {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+
 h2 {
     border-bottom: 2px solid #1a73e8;
-    padding-bottom: 5px;
-    margin-bottom: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
     color: #1a73e8;
+
 }
 ul {
     list-style-type: disc;
     padding-left: 20px;
 }
 
+
 footer {
     text-align: center;
-    padding: 15px;
+    padding: 20px;
     background-color: #1a73e8;
     color: white;
-    margin-top: 40px;
+    margin-top: 50px;
 }
 
